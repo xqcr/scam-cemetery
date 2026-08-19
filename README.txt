@@ -1,8 +1,7 @@
 СКАМ-КЛАДБИЩЕ — ПУБЛИКАЦИЯ НА GITHUB PAGES
 
 1. Создайте на GitHub новый публичный репозиторий, например scam-cemetery.
-2. Загрузите в корень репозитория все четыре файла из этой папки:
-   index.html, styles.css, app.js и .nojekyll.
+2. Загрузите в корень репозитория все файлы из этой папки, включая папку fonts.
 3. Откройте Settings → Pages.
 4. В разделе Build and deployment выберите:
    Source: Deploy from a branch
